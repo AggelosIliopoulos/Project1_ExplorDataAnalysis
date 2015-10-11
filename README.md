@@ -1,3 +1,5 @@
 # Project1_ExplorDataAnalysis
 
 CONTAINS ALL THE APPROPRIATE FILES FOR PROJECT 1
+
+THE PLOTS IN .png FILES ARE IN Issues option
